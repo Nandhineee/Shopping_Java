@@ -33,12 +33,12 @@ At 1st you should run the App.java file
 ------->Csv file are used to store products data
 
 
-****************TO DO****************
+# TO DO
 1.Add to Cart
 2.Order
 3.Admin 
 
-************Faced Challenges********
+# Faced Challenges
 1.Understand the flow
 2.Exception
 ***********OUTPUT****************
