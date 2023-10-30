@@ -5,13 +5,10 @@ At 1st you should run the App.java file
 
 ***********LIST OF THINGS**********
 1. MAINPACKAGE[PackageMain]
-   
 2. SUB_PACKAGE
+3. 
 # Controller
-*Authcontroller
-*Appcontroller
-*ProductController
-*CategoryController
+[Authcontroller*Appcontroller*ProductController*CategoryController]
 ------>Controller package is used to called the flow,methods used in the another package by creating objects
 
 # Utils[StringUtils,AppInput,AppException,LoadUtils,FileUtils]
