@@ -19,15 +19,19 @@ At 1st you should run the App.java file
 
 # Models
 [*Category *product *User]
+
 ------->Model package is used to create the object with datatype and in model is also used for get and set method
 
 # view
 [*LoginPage *HomePage *RegisterPage *CategoryPage *ProductPage]
+
 ------>view package is used to view the format of the output
 
 # CSV
 [*CredentialsFile *ProductFile *CategoryFile]
+
 ------->Csv file are used to store products data
+
 
 ****************TO DO****************
 1.Add to Cart
