@@ -8,7 +8,7 @@ At 1st you should run the App.java file
 2. SUB_PACKAGE
  
 # Controller
-[Authcontroller*Appcontroller*ProductController*CategoryController]
+[Authcontroller *Appcontroller *ProductController *CategoryController]
 
 ------>Controller package is used to called the flow,methods used in the another package by creating objects
 
