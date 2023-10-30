@@ -1,5 +1,5 @@
 # Shopping_Java
-Its E-commerce site run on console
+Its E-commerce site run on console,
 At 1st you should run the App.java file 
 
 
@@ -7,7 +7,11 @@ At 1st you should run the App.java file
 1. MAINPACKAGE[PackageMain]
    
 2. SUB_PACKAGE
-# Controller[Authcontroller,Appcontroller,ProductController,CategoryController]
+# Controller
+*Authcontroller
+*Appcontroller
+*ProductController
+*CategoryController
 ------>Controller package is used to called the flow,methods used in the another package by creating objects
 
 # Utils[StringUtils,AppInput,AppException,LoadUtils,FileUtils]
